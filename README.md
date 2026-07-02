@@ -1,2 +1,2 @@
-# Modelaci-n_num-rica
+# Modelacion-numerica
 Trabajos realizados en la materia modelación numérica - Curso Re.
